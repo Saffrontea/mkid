@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Saffrontea/mkid"
+	"mkid"
 )
 
 func main() {
